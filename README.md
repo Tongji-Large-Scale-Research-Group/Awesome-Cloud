@@ -1,6 +1,6 @@
 # Awesome Cloud
 
-中文|[English](README_en.md)
+中文 | [English](README_en.md)
 
 一个关于云计算领域中最优质的论文、工具和信息的精选列表，适合开发者和研究人员参考。灵感来源于 [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)，特别致敬！🫡
 
