@@ -11,6 +11,7 @@ We welcome contributions! Please follow our [Contribution Guidelines](contributi
 ## Discussions
 
 Our research team holds regular discussions on research progress and shares cutting-edge knowledge in the field. For details, please refer to the [Team Communication Guidelines](communication.md).
+Weekly discussions will be summarised for easy review and content deposition. For details, please refer to the [Weekly](weekly.md).
 
 ## Table of Contents
 
