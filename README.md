@@ -56,6 +56,7 @@
 ### 三、开源社区
 
 #### 3.1 社区信息
+* 如何找到适合自己的项目或社区？
 * 在云计算领域，哪些开源社区具有重要影响力？
 * 有哪些值得关注的开源活动可以参与或跟进？  
   **示例**：KubeCon、阿里云栖大会。
@@ -65,3 +66,17 @@
 * 有哪些云计算相关的竞赛值得关注和参与？
 * 有哪些开源活动适合云计算领域的研究者和开发者？  
   **示例**：Google Summer of Code (GSOC)、Open Source Promotion Plan (OSPP)。
+
+#### 3.3 开源维护
+
+* 开源社区规范
+  * 开源社区中通常有哪些行为准则？为什么会提出这些准则？这些准则对于社区和贡献者意味着什么？
+  * 贡献者如何解读社区中常见的技术文档？如何快速理解社区的规则和文化？
+*	参与开源活动
+	 *	在开源领域中，云计算领域有哪些值得关注的热门项目？
+	 *	参与开源项目有哪些常见方式？除代码提交外，还有哪些途径能够对社区作出贡献？
+	 *	提交代码时，如何撰写高质量的Pull Request，使之更容易被社区接受？
+
+**示例**：
+- [GitHub 开源贡献指南](https://docs.github.com/cn/get-started/quickstart/contributing-to-projects)
+- [如何撰写优秀的Pull Request](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md)
