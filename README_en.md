@@ -65,3 +65,18 @@ Our research team holds regular discussions on research progress and shares cutt
 * What cloud computing-related competitions are worth noting?
 * What open-source activities are suitable for researchers and developers in the cloud computing field?  
   **Example**: Google Summer of Code (GSOC), Open Source Promotion Plan (OSPP).
+
+#### 3.3 Open-Source Maintenance  
+
+* **Open-Source Community Norms**  
+  * What are the typical codes of conduct in open-source communities? Why were these norms established, and what do they mean for contributors and the community?  
+  * How can contributors interpret common technical documents in the community? How can they quickly understand the community's rules and culture?  
+
+* **Participating in Open-Source Activities**  
+  * What popular projects in the field of cloud computing are worth exploring in the open-source domain?  
+  * What are the common ways to contribute to open-source projects? Beyond code submissions, what other forms of contribution add value to the community?  
+  * When submitting code, how can one craft high-quality Pull Requests to increase the likelihood of acceptance?  
+
+**Examples**:  
+- [GitHub Contribution Guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)  
+- [How to Write an Excellent Pull Request](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md)  
