@@ -7,4 +7,4 @@
 ## 2024
 
 **十一月**
-* 第 1 期：[暂无](https://github.com/Tongji-Large-Scale-Research-Group/Awesome-Cloud)
+* 第 1 期：[装修中...](docs/issue-1.md)
