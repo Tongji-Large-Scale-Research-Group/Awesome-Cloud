@@ -3,10 +3,25 @@
 这里简单记录每周分享的前沿内容，不定期发布。
 
 ## 目录
-- [封面](#封面)
-- [EuroSys概述](#EuroSys概述)
-  - [Large Language Model](#large-language-model)
+- [Awesome-Cloud 周刊（第 3 期）：顶刊顶会-EuroSys](#awesome-cloud-周刊第-3-期顶刊顶会-eurosys)
+  - [目录](#目录)
+  - [封面](#封面)
+  - [EuroSys概述](#eurosys概述)
+    - [EuroSys基本信息](#eurosys基本信息)
+    - [ASPLOS基本信息](#asplos基本信息)
+  - [EuroSys会议分析](#eurosys会议分析)
+    - [疑问1：投稿难度](#疑问1投稿难度)
+    - [疑问2：覆盖面与侧重点](#疑问2覆盖面与侧重点)
+    - [其它-EuroSys认可度](#其它-eurosys认可度)
+  - [EuroSys论文分析（近五年论文）](#eurosys论文分析近五年论文)
+    - [EuroSys重点研究领域](#eurosys重点研究领域)
+      - [按征稿领域分类](#按征稿领域分类)
+      - [按关键词分类](#按关键词分类)
+      - [本小组相关文献分类](#本小组相关文献分类)
+    - [EuroSys重点论文](#eurosys重点论文)
+  - [问答环节记录](#问答环节记录)
 
+---
 
 ## 封面
 
