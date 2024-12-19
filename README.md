@@ -32,10 +32,10 @@
 
 ## 已讨论话题索引
 
-| 分类 | 主题 | 细节 | 具体内容 |
+| 分类 | 主题 | 细节 | 周刊 |
 | --- | --- | ---- | ------ |
-| 学术界-前沿论文 | [云原生数据库综述 Cloud-Native Databases: A Survey (发表于 TKDE2024)]([http://论文链接](https://ieeexplore.ieee.org/document/10574374)) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期周刊](./docs/issue-1.md) |
-| 学术界-顶级会议 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期周刊](./docs/issue-3.md) |
+| 学术界：前沿论文 | [云原生数据库综述 Cloud-Native Databases: A Survey (发表于 TKDE2024)](https://ieeexplore.ieee.org/document/10574374) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期](./docs/issue-1.md) |
+| 学术界：顶级会议 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期](./docs/issue-3.md) |
 
 
 **[⬆ back to ToC](#目录)**
