@@ -107,3 +107,10 @@
    - 根据正文中的分类，其它领域和我们的相关性都不够大，系统已经是和我们最相关的领域了。 ![计算机顶会分类](../images/issue-3-14.png)
    - 会议方面，有一小部分[和云计算领域相关会议](https://stefan-kolb.github.io/cloud-conferences/)，但其中与“云计算”紧密相关的一小部分会议中，评级最高的也只有 [SoCC（CCF-B）](https://acmsocc.org)。
    - 期刊方面，有一些和云计算领域相关的顶级Trans系列汇刊，例如 [TPDS（CCF-A）](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)、[TSC（CCF-A）](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)、[TCC（CCF-C）](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519)。
+3. 在EuroSys之类顶会发表的论文，是否都需要用学术界+工业界的组合？
+   - 对近五年（2020-2024）与本组相关的23篇论文进行统计，`学术界+工业界`、`学术界`、`工业界`三种组合的数量及年份分布分别是：
+     - `学术界+工业界`（12篇）：2024年（4篇）、2023年（3篇）、2022年（1篇）、2021年（2篇）、2020年（2年）
+     - `学术界`（8篇）：2024年（2篇）、2023年（1篇）、2021年（1篇）、2020年（4篇）
+     - `工业界`（3篇）：2021年（1篇）、2020年（2篇）
+   - 所绘制数据图如下：![论文作者单位情况图](../images/issue-3-23.png)
+   - 由上可知，`学术界+工业界`的组合在近年越发成为一种趋势。
