@@ -34,8 +34,11 @@
 
 | 分类 | 主题 | 细节 | 周刊 |
 | --- | --- | ---- | ------ |
+| 学术界：基础概念 | 任务及其分类 | 从任务分类讲起，进一步细致讨论job、task与instance之间的关系。 | [第2期](./docs/issue-2.md) |
 | 学术界：前沿论文 | [云原生数据库综述 Cloud-Native Databases: A Survey (发表于 TKDE2024)](https://ieeexplore.ieee.org/document/10574374) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期](./docs/issue-1.md) |
 | 学术界：顶级会议 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期](./docs/issue-3.md) |
+| 工业界：求职信息 | 云计算领域就业情况 | 对云计算领域就业情况进行介绍，从相关岗位、今年就业情况等基本情况分析，到找工作时间线规划、准备工作规划。 | [第4期](./docs/issue-4.md) |
+
 
 
 **[⬆ back to ToC](#目录)**
