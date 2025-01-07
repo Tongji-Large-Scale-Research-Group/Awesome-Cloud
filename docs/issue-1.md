@@ -4,9 +4,7 @@
 
 ## 封面图
 
-![云原生数据库总览](..\images\issue-1-0.png)
-
-[toc]
+![云原生数据库总览](../images/issue-1-0.png)
 
 # 云原生数据库报告
 
@@ -24,7 +22,7 @@
 
 #### 云原生 OLTP 架构总览
 
-![云原生OLTP架构](..\images\issue-1-1.png)
+![云原生OLTP架构](../images/issue-1-1.png)
 
 计算-存储分析OLTP架构具有具有两层体系结构：计算层处理易失性设备上的事务；存储层维护数据的持久性和可用性。
 
@@ -132,7 +130,7 @@
 #### 计算-存储分解 OLAP 架构
 
 
-![计算-存储分解OLAP](..\images\issue-1-2.png)
+![计算-存储分解OLAP](../images/issue-1-2.png)
 
 **动机：**
 
@@ -158,7 +156,7 @@
 
 #### 计算-内存-存储分解 OLAP 架构
 
-![计算-内存-存储OLAP](..\images\issue-1-3.png)
+![计算-内存-存储OLAP](../images/issue-1-3.png)
 
 **动机：**
 
