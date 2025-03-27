@@ -3,11 +3,20 @@
 这里简单记录每周分享的前沿内容，不定期发布。
 
 ## 目录  
+0. [参考文献声明](#参考文献声明)
 1. [背景需求](#背景需求)  
 2. [容灾演进路线](#容灾演进路线)  
 3. [容灾实践案例](#容灾实践案例)  
 4. [单元化方案](#单元化方案)  
 5. [未来方向](#未来方向)  
+
+---
+
+# :world_map:0. 参考文献声明 <a id="参考文献声明"></a>  
+[[1]《字节跳动容灾实践：同城容灾 + 异地多活是最好的模式吗？》](https://www.infoq.cn/article/r6NV8uZ6M79rAAuVXVrg?utm_source=related_read&utm_medium=article)
+[[2]《城市级别系统容灾建设方案演进（同城灾备、同城双活、两地三中心、异地双活、异地多活）》](https://www.cnblogs.com/z-sm/p/18021567)
+[[3]《单元化架构在字节跳动的落地实践》](https://www.infoq.cn/article/itqowhjhw23s5yhyyg5v)
+[[4]《16.系统高可用说明》](https://blog.csdn.net/Nick_Liux/article/details/129627121)
 
 ---
 
