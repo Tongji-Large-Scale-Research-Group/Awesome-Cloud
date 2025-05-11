@@ -1,4 +1,6 @@
-# Awesome-Cloud 周刊（第 1 期）：待定
+# Awesome-Cloud 周刊（第 1 期）：前沿论文-云原生数据库综述 
+
+[《Cloud-Native Databases: A Survey》(发表于 TKDE2024)](https://ieeexplore.ieee.org/document/10574374)
 
 这里简单记录每周分享的前沿内容，不定期发布。
 
