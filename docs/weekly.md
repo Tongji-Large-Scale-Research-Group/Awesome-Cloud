@@ -5,8 +5,10 @@
 
 ## 2025
 
+**四月**
+* 第 14 期：[前沿技术-SkyServe](docs/issue-14.md)
+
 **二月**
-* 第 11 期：[前沿技术-atlas](docs/issue-11.md)
 * 第 10 期：[业界现状-容错方案演进](docs/issue-10.md)
 * 第 8 期：[基础概念-云服务分类](docs/issue-8.md)
 
