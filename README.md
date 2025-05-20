@@ -43,9 +43,9 @@
 | 前沿论文 | [ 云原生数据库综述 Cloud-Native Databases(发表于 TKDE'24)](https://ieeexplore.ieee.org/document/10574374) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期](./docs/issue-1.md) |
 | 基础概念 | 任务及其分类 | 从任务分类讲起，进一步细致讨论job、task与instance之间的关系。 | [第2期](./docs/issue-2.md) |
 | 会议分析 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期](./docs/issue-3.md) |
+| 前沿论文 | [Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys (CCF-A) 2025)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，从最优化成本的角度出发 | [第9期](./docs/issue-9.md) |
+| 前沿论文 | [碎片整理VM重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (发表于 EuroSys'25)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。| [第17期](./docs/issue-17.md) |
 
-
-| 前沿论文 | [碎片整理VM重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (发表于 EuroSys'25)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。 | [第17期](./docs/issue-17.md) |
 
 
 ### 工业界
