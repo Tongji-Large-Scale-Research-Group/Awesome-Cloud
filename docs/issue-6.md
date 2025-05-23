@@ -47,7 +47,7 @@
 
 #### 传统数据库写入放大问题
 
-![image-20250522234059707](C:\Users\weixiaoxing\AppData\Roaming\Typora\typora-user-images\image-20250522234059707.png)
+![传统数据库写入过程](../images/issue-6-1.png)
 
 **说明：**传统数据库中，修改一个数据页，会同步产生对应的redo日志，基于数据页的前镜像回放redo日志可以得到数据页的后镜像。事务提交时，需要事务对应的redo日志都写盘成功后才能返回。
 
@@ -55,13 +55,13 @@
 
 #### 日志处理下放到存储层
 
-![image-20250522234118817](C:\Users\weixiaoxing\AppData\Roaming\Typora\typora-user-images\image-20250522234118817.png)
+![Aurora写入过程](../images/issue-6-2.png)
 
 Aurora由跨可用区的一个主实例和多个副本实例组成，主实例与副本实例或者存储节点间只传递redo日志和元信息。主实例并发向6个存储节点和副本实例发送日志，当4/6的存储节点应答后，则认为日志已经持久化，对于副本实例，则不依赖其应答时间点。
 
 ## 数据更新流程
 
-![image-20250522234154247](C:\Users\weixiaoxing\AppData\Roaming\Typora\typora-user-images\image-20250522234154247.png)
+![Aurora数据更新过程](../images/issue-6-3.png)
 
 1. 存储节点接收数据库实例的日志，并追加到内存队列；
 2. 将日志在本地持久化成功后，给实例应答；
@@ -72,11 +72,11 @@ Aurora由跨可用区的一个主实例和多个副本实例组成，主实例�
 7. 周期性地回收过期的数据页版本；
 8. 周期性地对数据页进行CRC校验。
 
-## 云上体系
+## 整体体系
 
 Aurora的整体架构图如下所示，其中的各个组件含义如下：
 
-![image-20250522234229195](C:\Users\weixiaoxing\AppData\Roaming\Typora\typora-user-images\image-20250522234229195.png)
+![Aurora整体架构](../images/issue-6-4.png)
 
 - Relational Database Service (RDS)：管理元数据。
 - Host Manager(HM)：监控集群的健康状况并确定是否需要做异常切换，或者是一个实例是否需要重建。
