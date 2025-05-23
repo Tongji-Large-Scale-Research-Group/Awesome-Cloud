@@ -44,9 +44,9 @@
 | 会议分析 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期](./docs/issue-3.md) |
 | 前沿论文 | [云原生数据库综述 Cloud-Native Databases(TKDE'24，CCF-A)](https://ieeexplore.ieee.org/document/10574374) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期](./docs/issue-1.md) |
 | 前沿论文 | [云原生数据库-Amazon Aurora（SIGMOD'17，CCF-A）](https://dl.acm.org/doi/10.1145/3035918.3056101) | 基于第1期进一步介绍案例，介绍云原生数据库 Amazon Aurora。 | [第6期](./docs/issue-6.md) |
-| 前沿论文 | [大模型训练网络-RDMA over Ethernet for Distributed AI Training at Meta Scale（SIGCOMM'24，CCF-A）](https://dl.acm.org/doi/10.1145/3035918.3056101) | 介绍 META 公司在分布式大模型训练下的网络管理技术。 | [第7期](./docs/issue-7.md) |
-| 前沿论文 | [SkyServe: Serving AI Models across Regions and Clouds with Spot Instances (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍基于非侵入多云SkyComputing技术的应用，具体面向AI模型推理服务，利用跨Region、跨Cloud下的Spot实例降低成本的同时保障性能（p99延迟）。 | [第14期](./docs/issue-14.md) |
-| 前沿论文 | [Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，从最优化成本的角度出发。 | [第16期](./docs/issue-16.md) |
+| 前沿论文 | [大模型训练网络-RDMA over Ethernet for Distributed AI Training at Meta Scale（SIGCOMM'24，CCF-A）](https://dl.acm.org/doi/10.1145/3035918.3056101) | 介绍 Meta 公司在分布式大模型训练下的网络管理技术。 | [第7期](./docs/issue-7.md) |
+| 前沿论文 | [跨域Spot实例支持大模型 SkyServe: Serving AI Models across Regions and Clouds with Spot Instances (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717459) | 介绍基于非侵入多云SkyComputing技术的应用，具体面向AI模型推理服务，利用跨Region、跨Cloud下的Spot实例降低成本的同时保障性能（p99延迟）。 | [第14期](./docs/issue-14.md) |
+| 前沿论文 | [考虑干扰的任务共置成本优化 Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，考虑任务共置会对性能产生干扰的前提下，选择合适的任务共置以实现最优化成本。 | [第16期](./docs/issue-16.md) |
 | 前沿论文 | [碎片整理RL重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。| [第17期](./docs/issue-17.md) |
 
 

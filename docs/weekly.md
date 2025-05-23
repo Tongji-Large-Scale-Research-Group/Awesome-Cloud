@@ -9,9 +9,9 @@
 * 第 17 期：[前沿论文-碎片整理RL重调度](docs/issue-17.md)
 
 **四月**
-* 第 16 期：[前沿论文-Eva](issue-16.md)
+* 第 16 期：[前沿论文-考虑干扰的任务共置成本优化-Eva](issue-16.md)
 * 第 15 期：
-* 第 14 期：[前沿论文-SkyServe](docs/issue-14.md)
+* 第 14 期：[前沿论文-跨域Spot实例支持大模型-SkyServe](docs/issue-14.md)
 
 **三月**
 * 第 13 期：
