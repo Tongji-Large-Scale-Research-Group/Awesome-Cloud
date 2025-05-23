@@ -1,4 +1,4 @@
-# Awesome-Cloud 周刊（第 17 期）：业界现状-容错方案演进
+# Awesome-Cloud 周刊（第 17 期）：前沿论文-碎片整理RL重调度-Towards VM Rescheduling Optimization Through Deep Reinforcement Learning
 
 这里简单记录每周分享的前沿内容，不定期发布。
 

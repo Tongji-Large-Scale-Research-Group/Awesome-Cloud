@@ -1,5 +1,8 @@
 # Awesome-Cloud 周刊（第 6 期）：前沿论文-云原生数据库案例 Aurora
 
+
+这里简单记录每周分享的前沿内容，不定期发布。
+
 **Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases**
 
 

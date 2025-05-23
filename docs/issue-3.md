@@ -1,9 +1,9 @@
-# Awesome-Cloud 周刊（第 3 期）：顶刊顶会-EuroSys
+# Awesome-Cloud 周刊（第 3 期）：顶会分析-EuroSys
 
 这里简单记录每周分享的前沿内容，不定期发布。
 
 ## 目录
-- [Awesome-Cloud 周刊（第 3 期）：顶刊顶会-EuroSys](#awesome-cloud-周刊第-3-期顶刊顶会-eurosys)
+- [Awesome-Cloud 周刊（第 3 期）：顶会分析-EuroSys](#awesome-cloud-周刊第-3-期顶会分析-eurosys)
   - [目录](#目录)
   - [封面](#封面)
   - [EuroSys概述](#eurosys概述)

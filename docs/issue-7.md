@@ -1,4 +1,4 @@
-# Awesome-Cloud 周刊（第 7 期）：RDMA over Ethernet for Distributed AI Training at Meta Scale
+# Awesome-Cloud 周刊（第 7 期）：前沿论文-大模型训练网络-RDMA over Ethernet for Distributed AI Training at Meta Scale
 
 
 这里简单记录每周分享的前沿内容，不定期发布。
