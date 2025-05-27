@@ -1,8 +1,8 @@
-# Awesome-Cloud 周刊（第 13 期）：文献综述-算力网络-综述
+# Awesome-Cloud 周刊（第 13 期）：前沿论文-算力网络综述
 
 **Computing Power Network: A Survey**
 
-
+北邮团队 2024 年 发表于 China Communications（JCR分区Q2，中科院分区Q4）
 
 ## 简述
 
