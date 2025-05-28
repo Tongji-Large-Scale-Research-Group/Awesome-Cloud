@@ -41,11 +41,11 @@
 | 分类 | 主题 | 细节 | 周刊 |
 | --- | --- | ---- | ------ |
 | 基础概念 | 任务及其分类 | 从任务分类讲起，进一步细致讨论job、task与instance之间的关系。 | [第2期](./docs/issue-2.md) |
+| 基础概念 | 多调度器调度系统 | 介绍现有的多调度器调度系统的框架和案例，并进行总结和对比。 | [第9期](./docs/issue-9.md) |
 | 会议分析 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期](./docs/issue-3.md) |
 | 前沿论文 | [云原生数据库综述 Cloud-Native Databases(TKDE'24，CCF-A)](https://ieeexplore.ieee.org/document/10574374) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期](./docs/issue-1.md) |
 | 前沿论文-数据 | [云原生数据库-Amazon Aurora（SIGMOD'17，CCF-A）](https://dl.acm.org/doi/10.1145/3035918.3056101) | 基于第1期进一步介绍案例，介绍云原生数据库 Amazon Aurora。 | [第6期](./docs/issue-6.md) |
 | 前沿论文-网络 | [大模型训练网络-RDMA over Ethernet for Distributed AI Training at Meta Scale（SIGCOMM'24，CCF-A）](https://dl.acm.org/doi/10.1145/3035918.3056101) | 介绍 Meta 公司在分布式大模型训练下的网络管理技术。 | [第7期](./docs/issue-7.md) |
-| 基础概念 | 多调度器调度系统 | 介绍现有的多调度器调度系统的框架和案例，并进行总结和对比。 | [第9期](./docs/issue-9.md) |
 | 前沿论文-计算 | [算力网络综述 Computing Power Network: A Survey （China Communications，JCR分区Q2，中科院分区Q4）](https://ieeexplore.ieee.org/document/10495806) | 介绍了计算能力网络（算力网络，CPN）。对算力网络的最新研究成果进行了详尽回顾，首先概述了算力网络，再全面阐述了算力建模、信息感知与发布、资源分配、网络转发、算力交易平台和资源协调平台等问题，建立并评估了算力网络测试平台，讨论了算力网络的应用和用例。 | [第13期](./docs/issue-13.md) |
 | 前沿论文-计算 | [跨域Spot实例支持大模型 SkyServe: Serving AI Models across Regions and Clouds with Spot Instances (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717459) | 介绍基于非侵入多云SkyComputing技术的应用，具体面向AI模型推理服务，利用跨Region、跨Cloud下的Spot实例降低成本的同时保障性能（p99延迟）。 | [第14期](./docs/issue-14.md) |
 | 前沿论文-计算 | [考虑干扰的任务共置成本优化 Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，考虑任务共置会对性能产生干扰的前提下，选择合适的任务共置以实现最优化成本。 | [第16期](./docs/issue-16.md) |
