@@ -49,6 +49,7 @@
 | 前沿论文-计算 | [大模型训练容错- Minder: Faulty Machine Detection for Large-scale Distributed Model Training（NSDI'25，CCF-A）](https://www.usenix.org/conference/nsdi25/presentation/deng) | 通过字节的数据介绍了大模型训练场景下的机器故障的检测及诊断方式。 | [第11期](./docs/issue-11.md) |
 | 前沿论文-计算 | [算力网络综述 Computing Power Network: A Survey （China Communications，JCR分区Q2，中科院分区Q4）](https://ieeexplore.ieee.org/document/10495806) | 介绍了计算能力网络（算力网络，CPN）。对算力网络的最新研究成果进行了详尽回顾，首先概述了算力网络，再全面阐述了算力建模、信息感知与发布、资源分配、网络转发、算力交易平台和资源协调平台等问题，建立并评估了算力网络测试平台，讨论了算力网络的应用和用例。 | [第13期](./docs/issue-13.md) |
 | 前沿论文-计算 | [跨域Spot实例支持大模型 SkyServe: Serving AI Models across Regions and Clouds with Spot Instances (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717459) | 介绍基于非侵入多云SkyComputing技术的应用，具体面向AI模型推理服务，利用跨Region、跨Cloud下的Spot实例降低成本的同时保障性能（p99延迟）。 | [第14期](./docs/issue-14.md) |
+| 前沿论文-计算 | [vCPU抽象和任务调度优化 Optimizing Task Scheduling in Cloud VMs with Accurate vCPU Abstraction](https://example.com/paper) | 介绍vSched系统，通过在虚拟机内部探测vCPU的动态特性（容量、拓扑、活动性），在无需修改Hypervisor的前提下，实现准确的vCPU抽象并优化任务调度。 | [第15期](./docs/issue-15.md) |
 | 前沿论文-计算 | [考虑干扰的任务共置成本优化 Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，考虑任务共置会对性能产生干扰的前提下，选择合适的任务共置以实现最优化成本。 | [第16期](./docs/issue-16.md) |
 | 前沿论文-计算 | [碎片整理RL重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。| [第17期](./docs/issue-17.md) |
 
