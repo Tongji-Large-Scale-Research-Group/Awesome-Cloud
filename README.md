@@ -52,6 +52,7 @@
 | 前沿论文-计算 | [vCPU抽象和任务调度优化 Optimizing Task Scheduling in Cloud VMs with Accurate vCPU Abstraction](https://example.com/paper) | 介绍vSched系统，通过在虚拟机内部探测vCPU的动态特性（容量、拓扑、活动性），在无需修改Hypervisor的前提下，实现准确的vCPU抽象并优化任务调度。 | [第15期](./docs/issue-15.md) |
 | 前沿论文-计算 | [考虑干扰的任务共置成本优化 Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，考虑任务共置会对性能产生干扰的前提下，选择合适的任务共置以实现最优化成本。 | [第16期](./docs/issue-16.md) |
 | 前沿论文-计算 | [碎片整理RL重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。| [第17期](./docs/issue-17.md) |
+| 前沿论文-计算 | 可靠性评估/优化部署领域概览及代表论文 | 介绍可靠性评估、可靠性优化部署领域近几年论文情况，选择网络、云、边三个场景下的三篇代表论文进行介绍（分别发表在INFOCOM、TCC、TMC顶会顶刊）。| [第30期](./docs/issue-30.md) |
 
 
 
@@ -64,6 +65,7 @@
 | 求职信息 | 云计算领域就业情况 | 对云计算领域就业情况进行介绍，从相关岗位、今年就业情况等基本情况分析，到找工作时间线规划、准备工作规划。 | [第4期](./docs/issue-4.md) |
 | 业界现状 | 大模型的技术概览 | 对于大模型的原理，技术方向，行业内的大模型做出介绍 | [第5期](./docs/issue-5.md) |
 | 业界现状 | 容错方案演进 | 对容错相关定义、架构以及单元化进行介绍，从单机房到多机房、从单地域到多地域、从数据备份到多活等方面进行介绍。 | [第10期](./docs/issue-10.md) |
+| 业界现状 | AI-Infra框架 | 从为何需要AI-Infra框架说起，对AI-Infra框架的演进脉络与框架横向对比进行介绍，最后对典型代表vLLM论文进行介绍。 | [第30期](./docs/issue-30.md) |
 
 
 **[⬆ back to ToC](#目录)**
