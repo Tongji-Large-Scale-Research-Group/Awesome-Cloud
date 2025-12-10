@@ -42,6 +42,7 @@
 | --- | --- | ---- | ------ |
 | 基础概念 | 任务及其分类 | 从任务分类讲起，进一步细致讨论job、task与instance之间的关系。 | [第2期](./docs/issue-2.md) |
 | 基础概念 | 多调度器调度系统 | 介绍现有的多调度器调度系统的框架和案例，并进行总结和对比。 | [第9期](./docs/issue-9.md) |
+| 基础概念 | Flash Attention | 主要介绍Flash Attention 1相关内容，并对其后续多个版本进行简单的介绍。 | [第31期](./docs/issue-31.md) |
 | 会议分析 | [European Conference on Computer Systems (EuroSys, CCF-A)](https://2025.eurosys.org/) | 对OS领域CCF-A类会议EuroSys进行介绍，从基本信息、投稿难度、侧重领域等基本情况分析，到重点领域分析、重点论文分析。 | [第3期](./docs/issue-3.md) |
 | 前沿论文 | [云原生数据库综述 Cloud-Native Databases(TKDE'24，CCF-A)](https://ieeexplore.ieee.org/document/10574374) | 从云原生数据库的演进讲起，进一步细致分类并分析每类云原生数据库的特点与问题，最终讨论可能的未来研究方向。 | [第1期](./docs/issue-1.md) |
 | 前沿论文-数据 | [云原生数据库-Amazon Aurora（SIGMOD'17，CCF-A）](https://dl.acm.org/doi/10.1145/3035918.3056101) | 基于第1期进一步介绍案例，介绍云原生数据库 Amazon Aurora。 | [第6期](./docs/issue-6.md) |
@@ -53,8 +54,6 @@
 | 前沿论文-计算 | [考虑干扰的任务共置成本优化 Eva: Cost-Efficient Cloud-Based Cluster Scheduling (EuroSys'25，CCF-A)](https://arxiv.org/pdf/2503.07437v1) | 介绍在基于云环境的集群配置问题，考虑任务共置会对性能产生干扰的前提下，选择合适的任务共置以实现最优化成本。 | [第16期](./docs/issue-16.md) |
 | 前沿论文-计算 | [碎片整理RL重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。| [第17期](./docs/issue-17.md) |
 | 前沿论文-计算 | 可靠性评估/优化部署领域概览及代表论文 | 介绍可靠性评估、可靠性优化部署领域近几年论文情况，选择网络、云、边三个场景下的三篇代表论文进行介绍（分别发表在INFOCOM、TCC、TMC顶会顶刊）。| [第30期](./docs/issue-30.md) |
-| 前沿论文-计算 | [碎片整理RL重调度 Towards VM Rescheduling Optimization Through Deep Reinforcement Learning (EuroSys'25，CCF-A)](https://dl.acm.org/doi/10.1145/3689031.3717476) | 介绍RL在VM重调度（集群内）问题的应用，引出了许多业界实践经验，开源了代码及数据集。| [第17期](./docs/issue-17.md) |
-| 基础概念 | Flash Attention | 主要介绍Flash Attention 1相关内容，并对其后续多个版本进行简单的介绍。 | [第31期](./docs/issue-31.md) |
 
 ### 工业界 or 实践
 
